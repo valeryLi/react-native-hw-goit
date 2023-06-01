@@ -7,7 +7,7 @@ import * as Font from "expo-font";
 import { StatusBar } from "expo-status-bar";
 import * as SplashScreen from "expo-splash-screen";
 
-import { StyleSheet, View } from "react-native";
+import { StyleSheet, View, Text } from "react-native";
 
 import { RegistrationScreen } from "./screens/auth/RegistrationScreen/RegistrationScreen.jsx";
 import { LoginScreen } from "./screens/auth/LoginScreen/LoginScreen.jsx";
